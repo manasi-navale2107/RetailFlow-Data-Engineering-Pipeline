@@ -8,7 +8,7 @@
 ![BigQuery](https://img.shields.io/badge/Google-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-![RetailFlow Banner](Images/Banner.jpg)
+
 
 ## 📌 Project Overview
 
